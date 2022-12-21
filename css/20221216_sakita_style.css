@@ -41,9 +41,10 @@
   position: absolute;
   right: 0%;
   top: 50px;
+  text-align: right;
 }
 .eyecatch-img{
-  width: 600px;
+  width: 60%;
   display: inline-block;
   margin: 0px 0px 0px auto;
 }
